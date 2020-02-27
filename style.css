@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+body{
+    font-size: 22px;
+    text-align: center;
+    background-color: white;
+  }
+.row1{
+    background-color: grey;
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 50px;
+  }
+
+
+.row2{
+    background-color: yellow;
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 50px;
+  }
+
+.row3{
+    background-color: red;
+    width: 100%;
+    padding: 20px 0;
+  }
+
+img {
+  width: 150px;
+  height: auto;
+  margin: 20px 0;
+  }
+ img.blubg{
+   background-color: blue;
+   border-radius: 100%;
+   padding: 20px;
+   width: 200px;
+ }
