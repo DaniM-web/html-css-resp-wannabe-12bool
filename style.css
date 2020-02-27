@@ -5,11 +5,8 @@
   }
 
 body{
-    font-size: 22px;
+    font-size: 20px;
     text-align: center;
-  }
-  [class*="col-"] {
-    border: 1px solid black;
   }
 
 .row1{
@@ -26,18 +23,25 @@ body{
     padding: 20px 0;
     margin-bottom: 50px;
     background-color: yellow;
+    border: 2px solid black;
   }
 
 .row3{
     width: 100%;
     padding: 20px 0;
     background-color: red;
+    border: 2px solid black;
   }
 
 img {
   width: auto;
+  max-width: 40%;
   height: 150px;
   margin: 20px 0;
+  }
+
+  h5{
+    margin-bottom: 20px;
   }
 
  img.blubg{
